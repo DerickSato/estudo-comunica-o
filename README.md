@@ -34,7 +34,7 @@ Os links abaixo foram selecionados de fontes altamente confiáveis do mercado de
 
 ---
 
-## 🤖 Guia de Prompts Otimizados para Engenharia de Prompt (NotebookLM)
+## 🤖 Guia de Prompts Otimizados para Engenharia de Prompt
 
 Utilize os prompts abaixo dentro do NotebookLM para extrair análises baseadas nas fontes acima, criar manuais práticos ou revisar minutas de e-mails:
 
