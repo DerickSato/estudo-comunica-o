@@ -15,8 +15,7 @@ Para que uma mensagem atinja o seu objetivo sem gerar duplo sentido, ela deve se
 
 ---
 
-## 🔗 Referências e Fontes de Contexto (Para Alimentar o NotebookLM)
-
+## 🔗 Referências e Fontes de Contexto
 Os links abaixo foram selecionados de fontes altamente confiáveis do mercado de trabalho, gestão e psicologia organizacional. Copie estes links e suba-os como fontes de URL no seu NotebookLM para enriquecer a base de conhecimento:
 
 ### 💼 Artigos de Negócios e Carreira
